@@ -1,7 +1,7 @@
 /* style.css */
 @font-face {
     font-family: MondaySans;
-    src: url(/font/monday_sans/MondaySans.otf);
+    src: url('./font/monday_sans/MondaySans.otf') format("otf");
   }
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 img,
